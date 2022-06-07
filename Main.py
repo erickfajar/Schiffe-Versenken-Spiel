@@ -1,10 +1,10 @@
-from dis import show_code
-from sqlite3 import Row
+
 from Coordinate import Coordinate
 #Attributes
 player_turn = 1
 number_ship = 3
 loop = True
+    
 
 
 coordinate_map = Coordinate()
