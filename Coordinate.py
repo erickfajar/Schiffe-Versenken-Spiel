@@ -13,5 +13,3 @@ class Coordinate:
                 a += 1
         print (" ")
 
-    def ada () :
-        print("aaaa")
